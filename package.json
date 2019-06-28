@@ -1,6 +1,8 @@
 {
-  "author": "0",
-  "devDependencies": { "np": "latest" },
-  "name": ".",
+  "author": "Trey Shugart <treshugart@gmail.com>",
+  "devDependencies": {
+    "np": "latest"
+  },
+  "name": "jest-resolver-ts-js",
   "version": "0.0.0"
 }
